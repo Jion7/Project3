@@ -1,0 +1,17 @@
+16
+Austin|Boston|555|100
+Boston|Chicago|900|200
+Chicago|Dallas|800|150
+Boston|Dallas|200|35
+Dallas|Fort-Worth|100|94
+El-Paso|Boston|400|132
+Dallas|El-Paso|200|53
+Austin|Dallas|142|29
+Austin|El-Paso|455|48
+Fort-Worth|Houston|222|58
+Houston|El-Paso|40|63
+Houston|Austin|900|25
+Georgetown|Austin|700|87
+El-Paso|Georgetown|700|101
+Georgetown|Frenso|700|187
+Frenso|Houston|51|213

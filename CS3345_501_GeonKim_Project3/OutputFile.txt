@@ -1,0 +1,24 @@
+
+Flight Path 1: 
+Dallas -> El-Paso -> Houston; Total Cost: 240$. 
+
+Flight Path 1: 
+Dallas -> Austin -> Houston; Total Time: 54 minutes. 
+
+Flight Path 1: 
+Chicago -> Dallas -> El-Paso; Total Cost: 1000$. 
+
+Flight Path 1: 
+Chicago -> Dallas -> El-Paso; Total Time: 203 minutes. 
+
+Flight Path 1: 
+Austin -> Dallas -> El-Paso -> Houston -> Frenso; Total Cost: 433$. 
+
+Flight Path 1: 
+Austin -> Houston -> Frenso; Total Time: 238 minutes. 
+
+Flight Path 1: 
+Chicago -> Dallas -> Austin -> Georgetown; Total Cost: 1642$. 
+
+Flight Path 1: 
+Chicago -> Dallas -> Austin -> Georgetown; Total Time: 266 minutes. 

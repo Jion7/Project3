@@ -1,0 +1,15 @@
+8
+Dallas|Houston|C
+Dallas|Houston|T
+Chicago|El-Paso|C
+Chicago|El-Paso|T
+Austin|Frenso|C
+Austin|Frenso|T
+Chicago|Georgetown|C
+Chicago|Georgetown|T
+Boston|Fort-Worth|C
+Boston|Fort-Worth|T
+El-Paso|Frenso|C
+El-Paso|Frenso|T
+Chicago|Frenso|C
+Chicago|Frenso|T
